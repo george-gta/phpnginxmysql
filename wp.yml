@@ -54,3 +54,4 @@ spec:
       - name: wordpress-persistent-storage
         persistentVolumeClaim:
           claimName: wordpress-persistent-storage
+          
